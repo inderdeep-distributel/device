@@ -1,0 +1,43 @@
+{
+   "assignDevice":{
+      "response":383,
+      "statusCode":0,
+      "statusMessage":"Device assigned to customer successfully",
+      "errorCode":null,
+      "errorMessage":null,
+      "httpStatus":200
+   },
+   "create":{
+      "response":383,
+      "statusCode":0,
+      "statusMessage":"Device 383 created successfully",
+      "errorCode":null,
+      "errorMessage":null,
+      "httpStatus":200
+   },
+   "delete":{
+      "response":384,
+      "statusCode":0,
+      "statusMessage":"Device 384 deleted successfully",
+      "errorCode":null,
+      "errorMessage":null,
+      "httpStatus":200
+   },
+   "unAssignDevice": {
+      "response":43,
+      "statusCode":0,
+      "statusMessage":"Device(s) unassigned from customer successfully.",
+      "errorCode":null,
+      "errorMessage":null,
+      "httpStatus":200
+   },
+   "update": {
+      "response":383,
+      "statusCode":0,
+      "statusMessage":"Device 383 updated successfully",
+      "errorCode":null,
+      "errorMessage":null,
+      "httpStatus":200
+   }
+
+}
